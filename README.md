@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThanhDuy21110759
-- 👀 I’m interested in Cpp; C#; Java; Sevlet/JSP
+- 👀 I’m interested in C++; C#; Java; Sevlet/JSP
 - 📫 Contact me through FB: https://www.facebook.com/profile.php?id=100009220378154
 
 <!---
