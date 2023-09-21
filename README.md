@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThanhDuy21110759
+- 👋 Hi, I’m ThanhDuy from University of Technology and Education
 - 👀 I’m interested in C++; C#; Java; Sevlet/JSP
 - 📫 Contact me through FB: https://www.facebook.com/profile.php?id=100009220378154
 
