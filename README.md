@@ -1,5 +1,6 @@
 - 👋 Hi, I’m ThanhDuy from University of Technology and Education
-- 👀 I’m interested in C++; C#; Java; Sevlet/JSP
+- 👀 I’m interested in C++; C#; Java
+-     Familiar with framwork Spring, Spring MVC, Spring Boot, Spring Security
 - 📫 Contact me through FB: https://www.facebook.com/profile.php?id=100009220378154
 
 <!---
