@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ThanhDuy from University of Technology and Education
-- 👀 I’m interested in C++; C#; Java
+- 👀 I’m interested in C++; C#; Java (Spring Framework)
 - 📫 Contact me through FB: https://www.facebook.com/profile.php?id=100009220378154
 
 <!---
