@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ThanhDuy from University of Technology and Education
-- 👀 I’m interested in C++; C#; Java (Spring Framework)
+- 👀 I’m interested in HTML, CSS, Javascript with `Reactjs` Front End Framework; C++; C# (Winform application); Java (Spring Framework)
 - 📫 Contact me through FB: https://www.facebook.com/profile.php?id=100009220378154
 
 <!---
