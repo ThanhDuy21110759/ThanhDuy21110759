@@ -7,7 +7,7 @@
 
   <b>- Back-End:  </b> Thymeleaf, JSP/Servlet;
 
-  <b>- Front-End:  </b>HTML, CSS, Javascript (Jquery & Ajax);
+  <b>- Front-End:  </b>HTML, CSS, Javascript (Jquery & Ajax), ReactJS, Flutter;
 
   <b>- Database:  </b>MySQL, MSSQL, MongoDB;
 
