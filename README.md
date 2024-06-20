@@ -18,9 +18,9 @@
 
    - <b>Database:  </b>MySQL, MSSQL, MongoDB;
 
-   - <b>Deployment:  </b>GG Cloud Platform, onRender, Heroku;
+   - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku;
  
-   - <b>Version control:  </b>git, github;
+   - <b>Version control:  </b>Git, Github;
 
 📫 Contact through Email: duyho03.dev@gmail.com
 
