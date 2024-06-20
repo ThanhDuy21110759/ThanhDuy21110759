@@ -16,7 +16,7 @@
 
    - <b>Front-End:  </b>HTML, CSS, Javascript (Jquery & Ajax), ReactJS, Flutter;
 
-   - <b>Database:  </b>MySQL, MSSQL, MongoDB;
+   - <b>Database:  </b>MySQL, MSSQL, MongoDB, Neo4j;
 
    - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku;
  
