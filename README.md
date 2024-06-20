@@ -17,7 +17,7 @@
 
 - 📫 Contact through Email: duyho03.dev@gmail.com
 
-https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
