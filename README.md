@@ -1,3 +1,4 @@
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
 - 👋 Hi, I’m ThanhDuy from University of Technology and Education (HCMUTE). With a keen interest in Java and related technologies such as <b> Spring Framework, Hibernate, MVC model, and RESTful APIs.</b> 
 - 👀 I’m interested in:
    
@@ -16,8 +17,6 @@
   <b>- Version control:  </b>git, github;
 
 - 📫 Contact through Email: duyho03.dev@gmail.com
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
