@@ -13,5 +13,9 @@
 
   <b>- Deployment:  </b>GG Cloud Platform, onRender, Heroku;
 
+  <b>- Version control:  </b>git, github;
+
 - 📫 Contact through Email: duyho03.dev@gmail.com
+
+
 
