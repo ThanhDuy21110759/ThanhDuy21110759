@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,hibernate,git,)](https://skillicons.dev)
 - 👋 Hi, I’m ThanhDuy from University of Technology and Education (HCMUTE). With a keen interest in Java and related technologies such as <b> Spring Framework, Hibernate, MVC model, and RESTful APIs.</b> 
 - 👀 I’m interested in:
    
