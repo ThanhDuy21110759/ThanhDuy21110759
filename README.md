@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://skillicons.dev">    
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,python,cpp,java,spring,hibernate,git,github,mysql,mongodb,firebase,googlecloud"/>
-    <b>About me</b>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,python,cpp,java,spring,hibernate,git,github,mysql,mongodb,firebase,googlecloud"/>    
   </a>
+  <b>ABOUT ME</b>
 </p>
 👋 Hi, I’m ThanhDuy from <b>University of Technology and Education (HCMUTE)</b>. With a keen interest in Java and related technologies such as <b> Spring Framework, Hibernate, MVC model, and RESTful APIs.</b> 
 
