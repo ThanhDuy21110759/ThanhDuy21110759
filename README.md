@@ -18,7 +18,9 @@
 
    - <b>Database:  </b>MySQL, MSSQL, PostgresSQL, MongoDB, Neo4j;
 
-   - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku;
+   - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku, Docker;
+
+   - <b>CI/CD: </b> github actions; 
  
    - <b>Version control:  </b>Git, Github;
 
