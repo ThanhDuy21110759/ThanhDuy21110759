@@ -20,7 +20,7 @@
 
    - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku, Docker;
 
-   - <b>CI/CD: </b> github actions; 
+   - <b>CI/CD: </b> Github actions; 
  
    - <b>Version control:  </b>Git, Github;
 
