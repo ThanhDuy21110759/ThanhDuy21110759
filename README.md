@@ -16,13 +16,17 @@
 
    - <b>Front-End:  </b>HTML, CSS, Javascript (Jquery & Ajax), ReactJS, Flutter;
 
+   - <b>Automation Test:  </b>JUnit, Mockito, JaCoCo Coverage;
+
    - <b>Database:  </b>MySQL, MSSQL, PostgresSQL, MongoDB, Neo4j;
+   
+   - <b>Caching:  </b>Redis, Caffeine, H2 database;
 
    - <b>Deployment:  </b>Google Cloud Platform, onRender, Heroku, Docker;
 
    - <b>CI/CD: </b> Github actions; 
  
-   - <b>Version control:  </b>Git, Github;
+   - <b>Version control:  </b>Git, Github, SVN;
 
 📫 Contact through Email: duyho03.dev@gmail.com
 
