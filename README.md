@@ -14,7 +14,7 @@
 
    - <b>Back-End:  </b> Thymeleaf, JSP/Servlet;
 
-   - <b>Front-End:  </b>HTML, CSS, Javascript (Jquery & Ajax), ReactJS, Flutter;
+   - <b>Front-End:  </b>NextJs, ReactJS for website and Flutter for Mobile Application;
 
    - <b>Automation Test:  </b>JUnit, Mockito, JaCoCo Coverage;
 
